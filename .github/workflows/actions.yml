@@ -2,12 +2,14 @@ name: run update_feed.py
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs at the beginning of every hour
-  workflow_dispatch: {} # Allows you to run this workflow manually
+    - cron: '0 * * * *'
+  workflow_dispatch: {}
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:      # Add this block
+      contents: write   # to grant write permissions
     steps:
 
       - name: checkout repo content
