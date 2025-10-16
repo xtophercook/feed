@@ -1,6 +1,12 @@
 [
     {
         "source": "FT.com",
+        "title": "FT Investigation: How the Trump companies made $1bn from crypto",
+        "link": "https://www.ft.com/content/2ea2b35b-e009-42ed-b4d3-6b21aa9b2a13",
+        "date": "2025-10-16T04:00:05Z"
+    },
+    {
+        "source": "FT.com",
         "title": "UK and US impose sanctions on alleged Cambodian \u2018cyber-scam\u2019 network",
         "link": "https://www.ft.com/content/38460669-0efc-49fa-9638-8c6e52f7904c",
         "date": "2025-10-14T15:10:52Z"
@@ -178,11 +184,5 @@
         "title": "Two bombmakers jailed for life over murder of Maltese journalist",
         "link": "https://www.ft.com/content/1896b2b0-12c6-4808-ae92-3a5961826a77",
         "date": "2025-06-10T19:39:11Z"
-    },
-    {
-        "source": "FT.com",
-        "title": "Putin\u2019s war economy is cooling, but Russians still feel richer",
-        "link": "https://www.ft.com/content/485aba41-1148-4f2c-b0ab-97aac5e50727",
-        "date": "2025-05-28T04:00:46Z"
     }
 ]
