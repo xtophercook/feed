@@ -1,6 +1,12 @@
 [
     {
         "source": "FT.com",
+        "title": "US justice department under fire for removing Trump image from Epstein files",
+        "link": "https://www.ft.com/content/a1a1bf4f-96f7-4280-842e-ccdf10de291d",
+        "date": "2025-12-20T23:09:13Z"
+    },
+    {
+        "source": "FT.com",
         "title": "US justice department releases cache of Epstein files",
         "link": "https://www.ft.com/content/485d7f51-4868-4c9c-b158-54a3eb2245bf",
         "date": "2025-12-20T12:23:38Z"
@@ -184,11 +190,5 @@
         "title": "Trump hits India with extra 25% tariff for Russia oil purchases",
         "link": "https://www.ft.com/content/6f22cb08-8e78-48e3-82ca-e0f1a353dbe6",
         "date": "2025-08-06T21:42:37Z"
-    },
-    {
-        "source": "FT.com",
-        "title": "Thousands of company directors leave UK after Labour\u2019s tax changes",
-        "link": "https://www.ft.com/content/a3fc89ea-6e9a-4795-9d42-e555551d0a0f",
-        "date": "2025-08-06T04:00:08Z"
     }
 ]
