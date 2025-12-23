@@ -1,6 +1,12 @@
 [
     {
         "source": "FT.com",
+        "title": "Russia\u2019s wage growth slows as wartime economy cools",
+        "link": "https://www.ft.com/content/5554ae15-4d8b-4df1-afa6-f8d3e982fff0",
+        "date": "2025-12-23T05:00:11Z"
+    },
+    {
+        "source": "FT.com",
         "title": "US justice department under fire for removing Trump image from Epstein files",
         "link": "https://www.ft.com/content/a1a1bf4f-96f7-4280-842e-ccdf10de291d",
         "date": "2025-12-21T22:36:17Z"
@@ -184,11 +190,5 @@
         "title": "Finland charges captain of Russian \u2018shadow fleet\u2019 ship over cable cutting",
         "link": "https://www.ft.com/content/a3110e00-9d4d-4757-9066-7af0ec925b42",
         "date": "2025-08-11T13:09:01Z"
-    },
-    {
-        "source": "FT.com",
-        "title": "Trump hits India with extra 25% tariff for Russia oil purchases",
-        "link": "https://www.ft.com/content/6f22cb08-8e78-48e3-82ca-e0f1a353dbe6",
-        "date": "2025-08-06T21:42:37Z"
     }
 ]
