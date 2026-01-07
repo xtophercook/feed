@@ -1,6 +1,12 @@
 [
     {
         "source": "FT.com",
+        "title": "US running surveillance flights near Russia-linked tanker in north Atlantic",
+        "link": "https://www.ft.com/content/800f8a53-3956-40a6-8b65-7db8c5fcbc8c",
+        "date": "2026-01-07T11:04:45Z"
+    },
+    {
+        "source": "FT.com",
         "title": "US tracking oil tanker off UK coast linked to Venezuela, Russia and Iran",
         "link": "https://www.ft.com/content/a699169a-983a-4472-ab23-54bceb9dd2bd",
         "date": "2026-01-06T17:32:42Z"
@@ -178,11 +184,5 @@
         "title": "How Russia is jamming GPS around Europe",
         "link": "https://www.ft.com/content/44cb37b6-2d82-402f-8c96-98b951f464af",
         "date": "2025-09-03T11:00:34Z"
-    },
-    {
-        "source": "FT.com",
-        "title": "US oilfield services group expands Russian unit despite new sanctions",
-        "link": "https://www.ft.com/content/19f61bbf-f2e9-4cd0-9400-3801dd8c05c9",
-        "date": "2025-08-21T04:00:08Z"
     }
 ]
