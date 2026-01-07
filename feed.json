@@ -1,6 +1,12 @@
 [
     {
         "source": "FT.com",
+        "title": "US attempts to seize Russia-linked tanker in Atlantic",
+        "link": "https://www.ft.com/content/fce872f7-859a-4857-b75d-2f4656d02a65",
+        "date": "2026-01-07T13:00:59Z"
+    },
+    {
+        "source": "FT.com",
         "title": "US running surveillance flights near Russia-linked tanker in north Atlantic",
         "link": "https://www.ft.com/content/800f8a53-3956-40a6-8b65-7db8c5fcbc8c",
         "date": "2026-01-07T11:04:45Z"
@@ -178,11 +184,5 @@
         "title": "Black applicants twice as likely to be rejected for a US mortgage",
         "link": "https://www.ft.com/content/217ccd86-7266-4c26-a5dd-18d6e726abcf",
         "date": "2025-09-04T04:00:08Z"
-    },
-    {
-        "source": "FT.com",
-        "title": "How Russia is jamming GPS around Europe",
-        "link": "https://www.ft.com/content/44cb37b6-2d82-402f-8c96-98b951f464af",
-        "date": "2025-09-03T11:00:34Z"
     }
 ]
