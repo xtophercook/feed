@@ -1,6 +1,12 @@
 [
     {
         "source": "FT.com",
+        "title": "Moscow says US seizure of Russian tanker risks military escalation at sea",
+        "link": "https://www.ft.com/content/7369b0d4-0f8d-4214-a0de-ba8e3a47b2f8",
+        "date": "2026-01-08T15:59:17Z"
+    },
+    {
+        "source": "FT.com",
         "title": "US seizes Russian tanker in Atlantic",
         "link": "https://www.ft.com/content/fce872f7-859a-4857-b75d-2f4656d02a65",
         "date": "2026-01-07T23:06:31Z"
@@ -178,11 +184,5 @@
         "title": "\u2018Stargate of China\u2019 plan emerges to challenge US as AI superpower",
         "link": "https://www.ft.com/content/31b8d6d8-adb0-4db0-a292-422c5a3bff19",
         "date": "2025-09-21T04:00:07Z"
-    },
-    {
-        "source": "FT.com",
-        "title": "Black applicants twice as likely to be rejected for a US mortgage",
-        "link": "https://www.ft.com/content/217ccd86-7266-4c26-a5dd-18d6e726abcf",
-        "date": "2025-09-04T04:00:08Z"
     }
 ]
