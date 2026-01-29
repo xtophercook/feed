@@ -1,6 +1,12 @@
 [
     {
         "source": "FT.com",
+        "title": "Russian oil income drops sharply as sanctions bite",
+        "link": "https://www.ft.com/content/ebf1c6d1-bb83-4eed-9aa9-4761294c451d",
+        "date": "2026-01-29T05:00:14Z"
+    },
+    {
+        "source": "FT.com",
         "title": "Russia, Ukraine and the race for Chinese drone components",
         "link": "https://www.ft.com/content/58416bf8-97d0-4d99-8152-cff9ec2dd3ef",
         "date": "2026-01-21T05:00:13Z"
@@ -196,11 +202,5 @@
         "title": "What\u2019s next for H-1B visas and a long-awaited TikTok deal",
         "link": "https://www.ft.com/content/f7a3dbe3-3128-401c-9237-a8d88856f4ad",
         "date": "2025-09-25T07:15:08Z"
-    },
-    {
-        "source": "FT.com",
-        "title": "Chinese cargo ship docks in Russian-occupied Crimea",
-        "link": "https://www.ft.com/content/93c21290-7d1c-42bd-b36d-ef4eeafa0107",
-        "date": "2025-09-23T04:00:10Z"
     }
 ]
