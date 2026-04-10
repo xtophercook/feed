@@ -1,12 +1,6 @@
 [
     {
         "source": "FT.com",
-        "title": "Lebanon\u2019s 10 minutes from hell",
-        "link": "https://www.ft.com/content/5501d347-cc84-404e-ab3f-666052c609fb",
-        "date": "2026-04-09T20:29:16Z"
-    },
-    {
-        "source": "FT.com",
         "title": "The lords and alleged lawbreakers among MFS\u2019s eclectic borrowers",
         "link": "https://www.ft.com/content/cac1f938-a19f-48b8-aab2-41a666c73723",
         "date": "2026-03-30T04:00:17Z"
@@ -214,5 +208,11 @@
         "title": "Russia\u2019s wage growth slows as wartime economy cools",
         "link": "https://www.ft.com/content/5554ae15-4d8b-4df1-afa6-f8d3e982fff0",
         "date": "2025-12-23T05:00:11Z"
+    },
+    {
+        "source": "FT.com",
+        "title": "US justice department under fire for removing Trump image from Epstein files",
+        "link": "https://www.ft.com/content/a1a1bf4f-96f7-4280-842e-ccdf10de291d",
+        "date": "2025-12-21T22:36:17Z"
     }
 ]
