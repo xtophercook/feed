@@ -1,6 +1,12 @@
 [
     {
         "source": "FT.com",
+        "title": "Two LNG tankers pass through Strait of Hormuz",
+        "link": "https://www.ft.com/content/9d2cdd87-5f4c-4ce1-a2d1-610729dd4aa9",
+        "date": "2026-05-25T13:36:37Z"
+    },
+    {
+        "source": "FT.com",
         "title": "AI guardrails stripped from Meta and Google models in minutes",
         "link": "https://www.ft.com/content/5630ed79-a263-41ed-9a1a-321617ae310e",
         "date": "2026-05-25T08:31:09Z"
@@ -184,11 +190,5 @@
         "title": "Moscow says US seizure of Russian tanker risks military escalation at sea",
         "link": "https://www.ft.com/content/7369b0d4-0f8d-4214-a0de-ba8e3a47b2f8",
         "date": "2026-01-08T15:59:17Z"
-    },
-    {
-        "source": "FT.com",
-        "title": "US seizes Russian tanker in Atlantic",
-        "link": "https://www.ft.com/content/fce872f7-859a-4857-b75d-2f4656d02a65",
-        "date": "2026-01-07T23:06:31Z"
     }
 ]
