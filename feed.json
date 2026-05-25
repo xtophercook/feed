@@ -1,6 +1,12 @@
 [
     {
         "source": "FT.com",
+        "title": "AI guardrails stripped from Meta and Google models in minutes",
+        "link": "https://www.ft.com/content/5630ed79-a263-41ed-9a1a-321617ae310e",
+        "date": "2026-05-25T08:31:09Z"
+    },
+    {
+        "source": "FT.com",
         "title": "Iran\u2019s Guards used UAE company to buy military satellite equipment",
         "link": "https://www.ft.com/content/371fee77-8637-4b99-ab5a-4b6fae253a44",
         "date": "2026-05-24T04:00:16Z"
@@ -184,11 +190,5 @@
         "title": "US seizes Russian tanker in Atlantic",
         "link": "https://www.ft.com/content/fce872f7-859a-4857-b75d-2f4656d02a65",
         "date": "2026-01-07T23:06:31Z"
-    },
-    {
-        "source": "FT.com",
-        "title": "US running surveillance flights near Russia-linked tanker in north Atlantic",
-        "link": "https://www.ft.com/content/800f8a53-3956-40a6-8b65-7db8c5fcbc8c",
-        "date": "2026-01-07T11:04:45Z"
     }
 ]
