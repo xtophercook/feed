@@ -1,6 +1,12 @@
 [
     {
         "source": "FT.com",
+        "title": "Irish government under pressure over alumina exports to Russia",
+        "link": "https://www.ft.com/content/4f271639-cf23-4c36-bfda-9c739eaa0797",
+        "date": "2026-06-06T04:00:49Z"
+    },
+    {
+        "source": "FT.com",
         "title": "Two LNG tankers pass through Strait of Hormuz",
         "link": "https://www.ft.com/content/9d2cdd87-5f4c-4ce1-a2d1-610729dd4aa9",
         "date": "2026-05-25T13:36:37Z"
@@ -184,11 +190,5 @@
         "title": "Broad mandate of Trump\u2019s Board of Peace sets it up for rivalry with UN",
         "link": "https://www.ft.com/content/0ee79faa-86d3-4c01-a180-add6e164ac28",
         "date": "2026-01-18T11:23:58Z"
-    },
-    {
-        "source": "FT.com",
-        "title": "Moscow says US seizure of Russian tanker risks military escalation at sea",
-        "link": "https://www.ft.com/content/7369b0d4-0f8d-4214-a0de-ba8e3a47b2f8",
-        "date": "2026-01-08T15:59:17Z"
     }
 ]
