@@ -1,6 +1,12 @@
 [
     {
         "source": "FT.com",
+        "title": "World Cup ticket prices are a red card for fans",
+        "link": "https://www.ft.com/content/42f67e1c-9a51-4437-9e25-7c528e78b9bd",
+        "date": "2026-06-12T04:00:00Z"
+    },
+    {
+        "source": "FT.com",
         "title": "Fifa faces empty seats as 180,000 World Cup tickets hit resale market",
         "link": "https://www.ft.com/content/ac26baee-691d-4e77-9fbf-756aaa463b63",
         "date": "2026-06-09T04:00:05Z"
@@ -184,11 +190,5 @@
         "title": "Russian oil income drops sharply as sanctions bite",
         "link": "https://www.ft.com/content/ebf1c6d1-bb83-4eed-9aa9-4761294c451d",
         "date": "2026-01-29T05:00:14Z"
-    },
-    {
-        "source": "FT.com",
-        "title": "Russia, Ukraine and the race for Chinese drone components",
-        "link": "https://www.ft.com/content/58416bf8-97d0-4d99-8152-cff9ec2dd3ef",
-        "date": "2026-01-21T05:00:13Z"
     }
 ]
