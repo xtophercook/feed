@@ -1,6 +1,12 @@
 [
     {
         "source": "FT.com",
+        "title": "EU faces crumbling support for new Russia sanctions",
+        "link": "https://www.ft.com/content/eb0cd740-e45d-4dd7-ab9a-6f6643bb32ee?syn-25a6b1a6=1",
+        "date": "2026-07-19T14:00:02Z"
+    },
+    {
+        "source": "FT.com",
         "title": "Athens blocks new EU sanctions on Russia to shield Greek shipping company",
         "link": "https://www.ft.com/content/fe5298b6-499b-4647-984f-fdcf3917e696?syn-25a6b1a6=1",
         "date": "2026-07-15T20:17:39Z"
@@ -220,11 +226,5 @@
         "title": "Polymarket users won big with unusual bets on US attack on Iran",
         "link": "https://www.ft.com/content/2883d3d4-aea2-4984-b994-4640593eed55?syn-25a6b1a6=1",
         "date": "2026-03-03T10:29:24Z"
-    },
-    {
-        "source": "FT.com",
-        "title": "Collapse of UK property lender sends shockwaves through Wall Street",
-        "link": "https://www.ft.com/content/6731dc3d-d43b-487a-a6f2-e6c8b2a7ac92?syn-25a6b1a6=1",
-        "date": "2026-02-27T19:02:14Z"
     }
 ]
