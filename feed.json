@@ -1,6 +1,18 @@
 [
     {
         "source": "Bluesky",
+        "title": "A big new story from us: a big new leak means that we can put numbers on the scale of A7 -- the Kremlin's huge money-laundering machine. $6.9bn laundered through the international banking system via SWIFT, with $1.1bn sent to StanChart alone.  https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1?syn-25a6b1a6=1",
+        "link": "https://bsky.app/profile/chriscook.news/post/3mw2jfhuqm22u",
+        "date": "2026-09-21T20:10:00Z"
+    },
+    {
+        "source": "FT.com",
+        "title": "Kremlin-backed forgery scheme moved $6.9bn through global banks",
+        "link": "https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1?syn-25a6b1a6=1",
+        "date": "2026-09-21T20:00:08Z"
+    },
+    {
+        "source": "Bluesky",
         "title": "you really have to admire Spurs\u2019 commitment to being the funniest club in the premier league",
         "link": "https://bsky.app/profile/chriscook.news/post/3mvurcnabrk2s",
         "date": "2026-09-19T13:15:00Z"
@@ -186,18 +198,6 @@
         "date": "2026-06-14T13:35:00Z"
     },
     {
-        "source": "Bluesky",
-        "title": "Currently, the bookies' odds imply a 54 per cent chance of success on the most important question of the world cup: will at least one current palace player get a winner's medal.",
-        "link": "https://bsky.app/profile/chriscook.news/post/3moan2ayl5k26",
-        "date": "2026-06-14T11:10:00Z"
-    },
-    {
-        "source": "Bluesky",
-        "title": "I would like both Bosnia and Canada to win.",
-        "link": "https://bsky.app/profile/chriscook.news/post/3mo4hqoele22f",
-        "date": "2026-06-12T19:24:00Z"
-    },
-    {
         "source": "FT.com",
         "title": "World Cup ticket prices are a red card for fans",
         "link": "https://www.ft.com/content/42f67e1c-9a51-4437-9e25-7c528e78b9bd?syn-25a6b1a6=1",
@@ -250,11 +250,5 @@
         "title": "Consumers face more pain as companies threaten price rises",
         "link": "https://www.ft.com/content/f2d0d112-6e04-4f88-878e-30cb34ce1c2a?syn-25a6b1a6=1",
         "date": "2026-05-05T04:00:34Z"
-    },
-    {
-        "source": "FT.com",
-        "title": "Half of \u2018long shot\u2019 Polymarket bets on military action are successful",
-        "link": "https://www.ft.com/content/989d335e-275b-4cdc-b51d-4b29fd8895b0?syn-25a6b1a6=1",
-        "date": "2026-04-30T04:00:08Z"
     }
 ]
