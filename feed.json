@@ -1,6 +1,12 @@
 [
     {
         "source": "FT.com",
+        "title": "UK businessman given senior role at group linked to Kremlin money-laundering operation",
+        "link": "https://www.ft.com/content/b3c46770-f6c2-437a-acee-bd1cee447c95?syn-25a6b1a6=1",
+        "date": "2026-10-05T04:00:12Z"
+    },
+    {
+        "source": "FT.com",
         "title": "US puts sanctions on Kremlin-backed fintech A7 for allegedly assisting\u00a0Iran",
         "link": "https://www.ft.com/content/29e2d078-4476-41f2-a180-faf0b2001068?syn-25a6b1a6=1",
         "date": "2026-10-02T12:19:10Z"
@@ -232,11 +238,5 @@
         "title": "Two LNG tankers pass through Strait of Hormuz",
         "link": "https://www.ft.com/content/9d2cdd87-5f4c-4ce1-a2d1-610729dd4aa9?syn-25a6b1a6=1",
         "date": "2026-05-25T13:36:37Z"
-    },
-    {
-        "source": "FT.com",
-        "title": "AI guardrails stripped from Meta and Google models in minutes",
-        "link": "https://www.ft.com/content/5630ed79-a263-41ed-9a1a-321617ae310e?syn-25a6b1a6=1",
-        "date": "2026-05-25T08:31:09Z"
     }
 ]
