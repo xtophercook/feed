@@ -1,6 +1,12 @@
 [
     {
         "source": "FT.com",
+        "title": "Kremlin-backed money launderer used London fintech to make payments",
+        "link": "https://www.ft.com/content/1273931a-238d-45a9-85b3-5c847e79b5ea?syn-25a6b1a6=1",
+        "date": "2026-10-09T04:00:22Z"
+    },
+    {
+        "source": "FT.com",
         "title": "The online life of the Flydubai attacker",
         "link": "https://www.ft.com/content/a92b9971-b32d-43f5-b078-a31beea62621?syn-25a6b1a6=1",
         "date": "2026-10-07T18:18:45Z"
@@ -202,11 +208,5 @@
         "title": "World Cup ticket prices are a red card for fans",
         "link": "https://www.ft.com/content/42f67e1c-9a51-4437-9e25-7c528e78b9bd?syn-25a6b1a6=1",
         "date": "2026-06-12T04:00:00Z"
-    },
-    {
-        "source": "FT.com",
-        "title": "Fifa faces empty seats as 180,000 World Cup tickets hit resale market",
-        "link": "https://www.ft.com/content/ac26baee-691d-4e77-9fbf-756aaa463b63?syn-25a6b1a6=1",
-        "date": "2026-06-09T04:00:05Z"
     }
 ]
